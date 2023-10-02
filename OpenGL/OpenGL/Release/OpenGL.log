@@ -1,13 +1,13 @@
 ﻿  Face.cpp
-  main.cpp
-C:\Users\tlrms\Desktop\OpenGL_2021\OpenGL\OpenGL\main.cpp(168,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   Mesh.cpp
   Skybox.cpp
   Texture.cpp
   Vertex.cpp
+  main.cpp
+C:\Users\tlrms\Desktop\OpenGL_2021\OpenGL\OpenGL\main.cpp(168,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   코드를 생성하고 있습니다.
-  352 of 359 functions (98.1%) were compiled, the rest were copied from previous compilation.
+  2 of 359 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    6 functions had inline decision re-evaluated but remain unchanged
   코드를 생성했습니다.
   OpenGL.vcxproj -> C:\Users\tlrms\Desktop\OpenGL_2021\OpenGL\Release\OpenGL.exe

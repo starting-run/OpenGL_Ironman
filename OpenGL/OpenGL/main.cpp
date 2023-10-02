@@ -170,7 +170,7 @@ void main(int argc, char **argv)
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH);
 	glutInitWindowSize(800, 600);
 	glutInitWindowPosition(100, 100);
-	glutCreateWindow("201904106 Final Project");
+	glutCreateWindow("OpenGL Project");
 	skybox = new Skybox();
 	glutDisplayFunc(GL_Display);
 	glutReshapeFunc(GL_Reshape);
