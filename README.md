@@ -1,3 +1,3 @@
-# OpenGL_2021 (세상을 구하는 아이언맨)
+# OpenGL_Ironman (2021)
 
-CubeMap, WireFrame and Point
+[OpenGL_Ironman.pdf](https://github.com/usfree/OpenGL_Ironman/files/12833257/OpenGL_Ironman.pdf)
